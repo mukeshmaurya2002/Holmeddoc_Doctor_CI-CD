@@ -1,0 +1,14 @@
+export { default as Login } from './auth-screens/login-screen/login-screen'
+export { default as OnboardScreen } from './auth-screens/onboard-screen/onboard-screen'
+export { default as RegisterScreen } from './auth-screens/register-screen/register-screen'
+export { default as VerifyOtp } from './auth-screens/verify-otp/verify-otp.screen'
+export { default as Home } from "./dashboard/home.screen"
+export { default as ForgotPassword } from "./auth-screens/forgot-password/forgot-password.screen"
+export { default as ResetPassword } from "./auth-screens/reset-password/reset-password.screen"
+export { default as DrawerAppointment } from './drawer-screen/drawer-appointment/drawer-appointment.screen'
+export { default as CalenderFilter } from './drawer-screen/drawer-appointment/calendar-filter/calendar-filter'
+export { default as DrawerPatients } from './drawer-screen/drawer-patient/drawer-patient'
+export { default as PatientDetails } from './drawer-screen/drawer-patient/screens/patient-detail/patient-detail.screen'
+export { default as AddPatient } from './drawer-screen/drawer-patient/screens/add-patient/add-patient.screen'
+export { default as AppointmentDetails } from './drawer-screen/drawer-appointment/appointment-details/appointment-details.screen'
+export { default as Setting } from './drawer-screen/setting/setting.screen'

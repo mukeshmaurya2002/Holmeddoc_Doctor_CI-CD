@@ -1,0 +1,6 @@
+
+const endpoints = {
+   
+};
+
+export { endpoints }

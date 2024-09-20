@@ -1,0 +1,16 @@
+export { default as DrawerChangePassword } from './change-password/change-password'
+export { default as DrawerContactUs } from './contact-us/contact-us.screen'
+export { default as AboutUs } from './about-us/about-us.screen';
+export { default as PoliciesScreen } from "./policies-screen/policies.screen"
+export { default as PrivacyPolicies } from "./policies-screen/privacy-policies.screen"
+export { default as TermsAndCondition } from "./policies-screen/terms-condition.screen"
+export { default as PersonalInfoScreen } from './profile-screen/personal-info-screen'
+export { default as DrawerInsuranceScreen } from './insurance/insurance-screen'
+export { default as AddInsuranceScreen } from "./insurance/add-insurance-screen"
+export { default as CompletedProfileScreen } from "./profile-screen/completed-profile-screen"
+export { default as AdditionalInfoScreen } from './profile-screen/additional-info-screen'
+export { default as PractiseInfoScreen } from './profile-screen/practise-info-screen'
+export { default as ProfessionalInfoScreen } from './profile-screen/professional-info-screen'
+export { default as DrawerPrescriptionScreen } from './prescription-vital-sign/prescription-screen'
+export { default as PrescriptionHistory } from './prescription-vital-sign/screens/prescription-history/prescription-history'
+export { default as VitalSigns } from './prescription-vital-sign/screens/vital-signs/vital-signs.screen'
