@@ -30,7 +30,7 @@ const OnboardScreen = () => {
         </View>
     ), []);
 
-    console.log("test ci cd");
+    console.log("test ci cdgg");
     const WelcomeText = useCallback(() => (
         <View style={[commonStyles.centerJCAC, { rowGap: moderateScale(10) }]}>
             <Text style={[fontStyles.notoSansMedium14, { color: Colors.offBlack50 }]}>Welcome to</Text>
